@@ -1,3 +1,5 @@
+**ALL CREDIT GOES TO** [Ultralytics](https://github.com/ultralytics/yolov3) 
+
 **DATA PREPARATION**
 Image and labels needed to be properly configured in the correct format. Some key points in the process are mentioned below:
 
